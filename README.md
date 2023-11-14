@@ -4,8 +4,10 @@ Welcome to the CodeSoft Internship Task repository! This repository has been cre
 ## Task Overview
 
 ## Task 1: To-Do List 
-• Create a list to store tasks, and add task names along with priority.
-• Allow multiple inputs.
-• Allow to update tasks as completed.
-• Allow printing tasks of the list.
-• Allow removal of the tasks in the list.
+• Create a list to store tasks, and add task names along with priority.__
+• Allow multiple inputs.__
+• Allow to update tasks as completed.__
+• Allow printing tasks of the list.__
+• Allow removal of the tasks in the list.__
+
+## Task 2: Simple Calculator
