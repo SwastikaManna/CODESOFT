@@ -4,6 +4,7 @@ Welcome to the CodeSoft Internship Task repository! This repository has been cre
 ## Task Overview
 
 ## Task 1: To-Do List 
+### A To-Do List application is a useful project that helps users manage and organize their tasks efficiently. This project aims to create a command-line application using Python, allowing users to create, update, and track their to-do lists. <br>
 • Create a list to store tasks, and add task names along with priority.<br>
 • Allow multiple inputs. <br>
 • Allow to update tasks as completed. <br>
@@ -15,5 +16,17 @@ Welcome to the CodeSoft Internship Task repository! This repository has been cre
 • Allow multiple trials in a run. <br>
 • Allow printing results. <br>
 
+## Task 3: Password Generator
+• Asks the user for two numbers along with the symbol of the operation to be performed.<br>
+• Allow multiple trials in a run. <br>
+• Allow printing results. <br>
 
+## Task 4: Rock Paper Scissors Game 
+• Asks the user for two numbers along with the symbol of the operation to be performed.<br>
+• Allow multiple trials in a run. <br>
+• Allow printing results. <br>
 
+## Task 5: Contact Book
+• Asks the user for two numbers along with the symbol of the operation to be performed.<br>
+• Allow multiple trials in a run. <br>
+• Allow printing results. <br>
