@@ -11,3 +11,9 @@ Welcome to the CodeSoft Internship Task repository! This repository has been cre
 • Allow removal of the tasks in the list. <br>
 
 ## Task 2: Simple Calculator
+• Asks the user for two numbers along with the symbol of the operation to be performed.<br>
+• Allow multiple trials in a run. <br>
+• Allow printing results. <br>
+
+
+
