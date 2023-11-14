@@ -4,7 +4,8 @@ Welcome to the CodeSoft Internship Task repository! This repository has been cre
 ## Task Overview
 
 ## Task 1: To-Do List 
-### A To-Do List application is a useful project that helps users manage and organize their tasks efficiently. This project aims to create a command-line application using Python, allowing users to create, update, and track their to-do lists. <br>
+A To-Do List application is a useful project that helps users manage and organize their tasks efficiently. This project aims to create a command-line application using Python, allowing users to create, update, and track their to-do lists. <br>
+
 • Create a list to store tasks, and add task names along with priority.<br>
 • Allow multiple inputs. <br>
 • Allow to update tasks as completed. <br>
@@ -12,19 +13,22 @@ Welcome to the CodeSoft Internship Task repository! This repository has been cre
 • Allow removal of the tasks in the list. <br>
 
 ## Task 2: Simple Calculator
-### A simple calculator with basic arithmetic operations prompts the user to input two numbers and an operation choice to perform the calculation and display the result.
+A simple calculator with basic arithmetic operations prompts the user to input two numbers and an operation choice to perform the calculation and display the result.<br>
+
 • Asks the user for two numbers along with the symbol of the operation to be performed.<br>
 • Allow multiple trials in a run. <br>
 • Allow printing results. <br>
 
 ## Task 3: Password Generator
-### A password generator is a useful tool that generates strong and random passwords for users. This project aims to create a password generator application using Python, allowing users to specify the length and complexity of the password. <br>
+A password generator is a useful tool that generates strong and random passwords for users. This project aims to create a password generator application using Python, allowing users to specify the length and complexity of the password. <br>
+
 • User Input: Prompt the user to specify the desired length of the password.<br>
 • Generate Password: Use a combination of random characters to generate a password of the specified length. <br>
 • Display the Password: Print the generated password on the screen.<br>
 
 ## Task 4: Rock Paper Scissors Game 
-### A traditional Rock Paper Scissor Game computerized to play with one user with its computer based on a command-line application.<br>
+A traditional Rock Paper Scissor Game is computerized to play with one user with its computer based on a command-line application.<br>
+
 • User Input: Prompt the user to choose rock, paper, or scissors.<br>
 • Computer Selection: Generate a random choice (rock, paper, or scissors) for the computer.<br>
 • Game Logic: Determine the winner based on the user's choice and the computer's choice. Rock beats scissors, scissors beat paper, and paper beats rock.<br>
@@ -34,7 +38,8 @@ Welcome to the CodeSoft Internship Task repository! This repository has been cre
 • Play Again: Ask the user if they want to play another round.<br>
 
 ## Task 5: Contact Book
-### A contact book application designed to replicate the traditional contact books storing  names, phone numbers, and email id's of people. <br>
+A contact book application designed to replicate the traditional contact books storing  names, phone numbers, and email id's of people. <br>
+
 • Contact Information: Store name, phone number, email, and address for each contact.<br>
 • Add Contact: Allow users to add new contacts with their details.<br>
 • View Contact List: Display a list of all saved contacts with names and phone numbers.<br>
