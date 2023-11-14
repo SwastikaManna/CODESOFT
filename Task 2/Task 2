@@ -1,0 +1,6 @@
+A simple calculator with basic arithmetic operations prompts the user to input two numbers and an operation choice to perform the calculation and display the result.
+<br>
+
+• Asks the user for two numbers along with the symbol of the operation to be performed.<br>
+• Allow multiple trials in a run.<br>
+• Allow printing results.<br>
